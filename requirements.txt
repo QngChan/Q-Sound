@@ -3,4 +3,8 @@ beautifulsoup4
 sounddevice
 numpy
 pygame-ce
-customtkinter
+fastapi
+uvicorn
+pywebview
+python-multipart
+Pillow
