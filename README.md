@@ -31,7 +31,7 @@ Q-Sound is a modern, high-performance soundboard application built with a high-e
 ### 2. Setup
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Q-Sound.git
+git clone https://github.com/QngChan/Q-Sound.git
 cd Q-Sound
 
 # Install dependencies
